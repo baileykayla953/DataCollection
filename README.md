@@ -49,8 +49,11 @@ create browser, visit site, and create parser
 
 
 loop through all text to extract titles and previews.
+
 Create list and dictionary to store titles and previews
+
 View list and previews in list. 
+
 Quit Browser 
 
 
